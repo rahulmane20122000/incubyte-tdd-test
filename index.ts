@@ -1,11 +1,13 @@
-const add = async(input_string : string)=>{
+const add = (input_string : string)=>{
     try {
-        console.log("input_string",input_string)
+        if (input_string==="") {
+            return 0;
+        }
     } catch (error) {
         throw error;
     }
 }
 
-add("123");
+console.log(add(""))
 
 export default add;
