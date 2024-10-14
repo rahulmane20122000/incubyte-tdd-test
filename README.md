@@ -1,6 +1,6 @@
 # Incubyte TDD Assignment
 
-This project is a solution to the Incubyte TDD (Test-Driven Development) assessment. The goal is to implement a `StringCalculator` class using TDD in **Node.js** with **TypeScript**.
+This project is a solution to the Incubyte TDD (Test-Driven Development) assessment. The goal is to implement a `StringCalculator` function using TDD in **Node.js** with **TypeScript**.
 
 ## Project Setup
 
